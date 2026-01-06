@@ -1,4 +1,4 @@
-# Movie Recommendation System 
+# Movie Recommendation System using Sentiment Analysis 
 
 ## Project Description
 This project recommends movies based on user sentiment analysis from tweets and user ratings.
